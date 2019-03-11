@@ -61,6 +61,7 @@ text: 'If you like Tachyons you will love styled-system. If you don’t like Tac
     }
   ],
   plugins: [
+    'gatsby-plugin-emotion',
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
