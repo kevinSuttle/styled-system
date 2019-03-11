@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import { Helmet } from 'react-helmet'
-import Global from '@emotion/core'
+import { Global } from '@emotion/core'
 
 const style = (
   <Global
