@@ -81,7 +81,7 @@ In version 5, built-in styles are grouped, and the above can be replaced with:
 const Box = styled('div')(layout)
 ```
 
-This API was inspired by [GitHub Primer][] and includes the following categories:
+This API was inspired by [GitHub Primer][https://primer.style/components/system-props] and includes the following categories:
 
 | Module       | Style Props                                                                                                                                                                                                                                                                  |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
